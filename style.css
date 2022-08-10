@@ -1,0 +1,34 @@
+body {
+   background-color: rgb(200, 200, 211);
+}
+
+.contact {
+    padding: 20px;
+    background-color: rgb(153, 185, 204);
+    border-radius: 20px;
+}
+
+.info-text {
+    padding: 20px;
+}
+
+.hobbies {
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 20px;
+}
+.work {
+    padding: 20px;
+}
+
+.accordion-accordion-flush {
+    background-color: darkmagenta;
+}
+
+.contact-2 {
+    margin-top: 30px;
+    margin-bottom: 200px;
+    padding: 10px 20px;
+    background-color: rgb(153, 185, 204);
+    border-radius: 20px;
+}
